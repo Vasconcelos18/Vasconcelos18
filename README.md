@@ -1,7 +1,5 @@
-![Vasconcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasconcelos18&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelos18&layout=donut )](https://github.com/vasconcelos18/github-readme-stats )
-
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=vasconcelos18&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/?username=vasconcelos18&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelos18&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
