@@ -1,5 +1,4 @@
-![Vasconcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=vasconcelos18&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelos18&layout=donut)](https://github.com/vasconcelos18/github-readme-stats)
-![Vasconcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasconcelos18&show_icons=true&theme=dark)
+![Vasconcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasconcelos18&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelos18&layout=donut)](https://github.com/vasconcelos18/github-readme-stats)
 
 ## Tecnologias que uso no dia a dia
 
